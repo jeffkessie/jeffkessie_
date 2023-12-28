@@ -1,11 +1,9 @@
 # jeffkessie_
-<h1>Hi, I'm Jeff Kessie ! <br/><a href="https://github.com/jeffkessie/jeffkessie_">Programmer</a>, <a href="https://www.linkedin.com/in/jkessie/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Jeff Kessie ! <br/><a href="https://github.com/jeffkessie/jeffkessie_">Programmer</a>, <a href="https://www.linkedin.com/in/jkessie/">Cybersecurity Professional</a>, <a 
 
 <h2>👨‍💻 Cyber Secuirty Projects:</h2>
 
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  https://medium.com/@jeffkessie50/creating-a-custom-vpc-in-aws-using-terraform-d890e63e43ba
 
 <h2>📺 Popular YouTube Videos</h2>
 
