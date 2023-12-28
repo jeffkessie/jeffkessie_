@@ -1,8 +1,7 @@
 # jeffkessie_
-<h1>Hi, I'm Jeff Kessie ! <br/><a href="https://github.com/jeffkessie/jeffkessie_">Programmer</a>, <a href="https://www.linkedin.com/in/jkessie/">Cybersecurity Professional</a>, <a 
+<h1>Hi, I'm Jeff Kessie ! <br/><a href="https://github.com/jeffkessie/jeffkessie_">Programmer</a>, <a href="https://www.linkedin.com/in/jkessie/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cyber Secuirty Projects:</h2><br> https://medium.com/@jeffkessie50/creating-a-custom-vpc-in-aws-using-terraform-d890e63e43ba<br>
-
+<h2>👨‍💻 Cyber Secuirty Projects:</h2>
 
   https://medium.com/@jeffkessie50/creating-a-custom-vpc-in-aws-using-terraform-d890e63e43ba
 
