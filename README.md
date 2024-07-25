@@ -1,5 +1,5 @@
 # jeffkessie_
-<h1>Hi, I'm Jeff Kessie ! <br/><a href="https://github.com/jeffkessie/jeffkessie_">Programmer</a>, <a href="https://www.linkedin.com/in/jkessie/">Cybersecurity Professional</a>
+<h1>Hi, I'm Jeff Kessie ! <br/><a href="https://github.com/jeffkessie/jeffkessie_">Programmer</a>, <a href="https://www.linkedin.com/in/jkessie/"> And Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Secuirty Projects:</h2>
 
