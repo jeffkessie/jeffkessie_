@@ -16,7 +16,6 @@
 
 [twitter]: https://twitter.com/jeffkessie_
 [linkedin]: https://linkedin.com/in/jeffkessie
-[facebook] : 
 
 
 <!--
